@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-vx03wq)u=44_3raei#!natfcu2%gg!3@1eqk_61f+=hy(mb3qe
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '8000-triz22-calorietracker-hiltxd984il.ws-eu115.gitpod.io',
+    ]
 
 
 # Application definition
