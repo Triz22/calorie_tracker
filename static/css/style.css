@@ -38,3 +38,16 @@ header {
     border-radius: 10px;
 
 }
+
+.calorie-result h2 span {
+    color: #e74c3c;
+}
+
+.nutritional-values {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 70%;
+    max-width: 500px;
+    border-radius: 10px;
+}
