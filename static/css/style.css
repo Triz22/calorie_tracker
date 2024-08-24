@@ -9,3 +9,10 @@ header {
     display: inline-block;
     
 }
+
+.search-bar {
+    width: 70%;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
