@@ -66,3 +66,8 @@ header {
     width: 80%;
     max-width: 600px;
 }
+
+.activities .activity {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
