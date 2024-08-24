@@ -51,3 +51,8 @@ header {
     max-width: 500px;
     border-radius: 10px;
 }
+
+.nutritional-values table {
+    width: 100%;
+    text-align: left;
+}
