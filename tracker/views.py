@@ -16,6 +16,5 @@ def home(request):
         api = 'oops, something went wrong try again later!'
         print(e)
         return render(request, 'index.html', {'api':api})
-
-
-    return render(request, 'index.html')
+    else:
+        return render(request, 'index.html',{'query':'Enter a valid string'})
