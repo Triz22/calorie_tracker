@@ -1,4 +1,4 @@
-/*-----Header-----*/
+/* -----Header-----
 
 header {
     padding: 40px 20px;
@@ -28,7 +28,7 @@ header {
 
 /*-----Results-----*/
 
-.calorie-result {
+/* .calorie-result {
     background: white;
     padding: 30px;
     margin: 20px;
@@ -59,7 +59,7 @@ header {
 
 /*-----Activities-----*/
 
-.activities {
+/* .activities {
     background: #fffbea;
     padding: 20px;
     margin: 20px auto;
@@ -70,4 +70,4 @@ header {
 .activities .activity {
     padding: 10px;
     border-bottom: 1px solid #ddd;
-}
+}  */ 
